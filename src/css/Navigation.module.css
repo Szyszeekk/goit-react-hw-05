@@ -1,0 +1,22 @@
+.link {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 26px;
+}
+
+.activeLink {
+  color: red;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 26px;
+}
+
+.link:hover,
+.activeLink:hover {
+  text-decoration: underline;
+}
+
+.navigation {
+  border-bottom: 1px solid;
+}
